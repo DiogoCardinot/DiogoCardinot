@@ -21,14 +21,14 @@
 <div> 
   <h3 align="left">Connect with me:</h3>
 
-  <a href="https://www.linkedin.com/in/diogo-cardinot-441675194/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/diogo-cardinot-441675194/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-<a href = "mailto:diogocardinotuerj@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-  <a href = "mailto:diogocardinotuerj@hotmail.com"><img align="center" src="https://seeklogo.com/images/M/microsoft-outlook-logo-188AB32C94-seeklogo.com.png" height="30" width="35" /></a>
-  <a href="https://instagram.com/diogocardinot"  target="blank"><img align="center"
+      alt="adam pithewan" height="30" width="40" target="_blank" /></a>
+<a href = "mailto:diogocardinotuerj@gmail.com" target="_blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" target="_blank"/></a>
+  <a href = "mailto:diogocardinotuerj@hotmail.com" target="_blank"><img align="center" src="https://seeklogo.com/images/M/microsoft-outlook-logo-188AB32C94-seeklogo.com.png" height="30" width="35" target="_blank"/></a>
+  <a href="https://instagram.com/diogocardinot"  target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Diogo-Instagram" target="blank" height="30" width="40" /></a>
+      alt="Diogo-Instagram" target="_blank" height="30" width="40" /></a>
  
 
  
