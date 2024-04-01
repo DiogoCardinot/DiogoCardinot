@@ -36,10 +36,11 @@
  
 </div>
 
+<!--
 <details><summary>Contribution Graph</summary>
 <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=DiogoCardinot&theme=chartreuse-dark&no-frame=true" /></p>
-</details>
+</details>-->
   
 <!-- <details><summary>Troféus</summary>
 <p align="left">
