@@ -34,7 +34,7 @@
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="mailto:diogocardinotnf@gmail.com" target="_blank">
-    <img alt="Gmail" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" />
+    <img alt="Gmail" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw2mfABWif3jCuWfumYznJ4i&ust=1748732571260000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICP1c6mzI0DFQAAAAAdAAAAABAM)" />
   </a>
   <a href="mailto:diogocardinotnf@hotmail.com" target="_blank">
     <img alt="Outlook" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Office_Outlook_%282019%E2%80%93present%29.svg" />
