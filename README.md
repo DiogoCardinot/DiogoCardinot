@@ -25,8 +25,6 @@
   <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   <img alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img alt="Code::Blocks" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/CodeBlocks_logo.svg" />
-  <img alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
 <!-- Contato -->
@@ -36,21 +34,12 @@
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="mailto:diogocardinotnf@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" width="40" />
+    <img alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" height="30" width="40" />
   </a>
   <a href="mailto:diogocardinotnf@hotmail.com" target="_blank">
-    <img alt="Outlook" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoutlook.svg" height="30" width="40" />
+    <img alt="Outlook" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Office_Outlook_%282019%E2%80%93present%29.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/diogocardinot" target="_blank">
     <img alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-</div>
-
-<!-- Gráfico de contribuições -->
-<div align="center">
-  <!-- Se quiser usar a cobra, descomente abaixo -->
-  <img src="https://github.com/DiogoCardinot/DiogoCardinot/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-  <!-- Imagem oficial do perfil -->
-  <img src="https://github.com/DiogoCardinot.png" alt="Profile Pic" height="150" style="border-radius:50%;" />
 </div>
