@@ -27,6 +27,13 @@
   <img alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 </div>
 
+<!-- Projetos em que colaborei -->
+<h3 align="center">Projetos em que colaborei</h3>
+<ul>
+  <li><a href="https://github.com/salarini-e/intranet" target="_blank">Intranet Prefeitura Municipal de Nova Friburgo.</a> – Atuei no desenvolvimento e aprimoramento da intranet da prefeitura, utilizando Python (Django), JavaScript, HTML, CSS e MySQL. Implementei scripts de automação para atualização de dados, desenvolvi formulários para inscrições em eventos e criei um sistema de chamados para suporte técnico, que permite abertura, acompanhamento e priorização das solicitações.</li>
+</ul>
+
+
 <!-- Contato -->
 <h3 align="center">Conecte-se comigo</h3>
 <div align="center">
@@ -43,3 +50,5 @@
     <img alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </div>
+
+
