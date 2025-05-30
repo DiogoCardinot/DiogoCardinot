@@ -30,16 +30,16 @@
 <!-- Contato -->
 <h3 align="center">Conecte-se comigo</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/diogo-cardinot-441675194/" target="_blank">
+  <a href="https://www.linkedin.com/in/diogo-cardinot-441675194/" target="_blank" style="decoration:none">
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="mailto:diogocardinotnf@gmail.com" target="_blank">
+  <a href="mailto:diogocardinotnf@gmail.com" target="_blank" style="decoration:none">
     <img alt="Gmail" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
   </a>
-  <a href="mailto:diogocardinotnf@hotmail.com" target="_blank">
+  <a href="mailto:diogocardinotnf@hotmail.com" target="_blank" style="decoration:none">
     <img alt="Outlook" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" />
   </a>
-  <a href="https://instagram.com/diogocardinot" target="_blank">
+  <a href="https://instagram.com/diogocardinot" target="_blank" style="decoration:none">
     <img alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </div>
