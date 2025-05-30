@@ -34,10 +34,10 @@
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="mailto:diogocardinotnf@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" height="30" width="40" />
+    <img alt="Gmail" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" />
   </a>
   <a href="mailto:diogocardinotnf@hotmail.com" target="_blank">
-    <img alt="Outlook" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Office_Outlook_%282019%E2%80%93present%29.svg" height="30" width="40" />
+    <img alt="Outlook" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Office_Outlook_%282019%E2%80%93present%29.svg" />
   </a>
   <a href="https://instagram.com/diogocardinot" target="_blank">
     <img alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
