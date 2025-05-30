@@ -37,7 +37,7 @@
     <img alt="Gmail" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
   </a>
   <a href="mailto:diogocardinotnf@hotmail.com" target="_blank">
-    <img alt="Outlook" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Office_Outlook_%282019%E2%80%93present%29.svg" />
+    <img alt="Outlook" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" />
   </a>
   <a href="https://instagram.com/diogocardinot" target="_blank">
     <img alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
