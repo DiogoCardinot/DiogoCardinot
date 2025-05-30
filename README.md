@@ -30,7 +30,7 @@
 <!-- Projetos em que colaborei -->
 <h3 align="center">Projetos em que colaborei</h3>
 <ul>
-  <li><a href="https://github.com/salarini-e/intranet" target="_blank">Intranet Prefeitura Municipal de Nova Friburgo.</a> – Atuei no desenvolvimento e aprimoramento da intranet da prefeitura, utilizando Python (Django), JavaScript, HTML, CSS e MySQL. Implementei scripts de automação para atualização de dados, desenvolvi formulários para inscrições em eventos e criei um sistema de chamados para suporte técnico, que permite abertura, acompanhamento e priorização das solicitações.</li>
+  <li><a href="https://github.com/salarini-e/intranet" target="_blank">Intranet Prefeitura Municipal de Nova Friburgo.</a> – Atividades realizadas no desenvolvimento e aprimoramento da intranet da prefeitura, utilizando Python (Django), JavaScript, HTML, CSS e MySQL. Foram implementados scripts de automação para atualização de dados, desenvolvidos formulários para inscrições em eventos e criado um sistema de chamados para suporte técnico, permitindo a abertura, acompanhamento e priorização das solicitações.</li>
 </ul>
 
 
