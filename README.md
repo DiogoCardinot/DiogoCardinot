@@ -9,11 +9,14 @@
   Experiência em desenvolvimento de software, análise de dados e modelagem matemática —<br>
   criando soluções eficientes e escaláveis.
 </p>
-
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-cardinot-441675194/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogocardinotnf@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diogocardinotnf@hotmail.com)
+-->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogocardinotuerj@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diogocardinotuerj@hotmail.com)
+<!--
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diogocardinot)
+->>
 
 </div>
 
@@ -41,6 +44,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logo=c&logoColor=white)
 
 **Frontend**
 
@@ -56,7 +60,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
-
+<!--
 ## 🚀 Projetos em Destaque
 
 ### 🏛 [Intranet — Prefeitura Municipal de Nova Friburgo](https://github.com/salarini-e/intranet)
@@ -69,7 +73,7 @@
 - **Stack:** Python (Django) · JavaScript · HTML/CSS · MySQL
 
 ---
-
+-->
 ## 🐍 Contribuições
 
 <div align="center">
