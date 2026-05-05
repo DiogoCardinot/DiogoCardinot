@@ -5,8 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Engenheiro+de+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Mestrando+em+Modelagem+Computacional+%F0%9F%94%AC;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Entusiasta+de+Dados+e+IA+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 <p>
-  Formado em Engenharia de Computação pela <strong>UERJ</strong>, atualmente mestrando em <strong>Modelagem Computacional</strong>.<br>
-  Experiência em desenvolvimento de software, análise de dados e modelagem matemática —<br>
+  <!--
+  Formado em Engenharia de Computação pela <strong>UERJ</strong>, atualmente mestrando em <strong>Modelagem Computacional</strong>.
+  -->
+  <br>Experiência em desenvolvimento de software, análise de dados e modelagem matemática —<br>
   criando soluções eficientes e escaláveis.
 </p>
 
